@@ -5,7 +5,7 @@ variable "resource_group_name" {
 
 variable "prefix" {
   type    = string
-  default = "st2104"
+  default = "hpst2021"
 }
 
 variable "docker_image" {
